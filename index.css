@@ -1,0 +1,26 @@
+h3  {
+    margin-top: 10px;
+}
+img    {
+ margin-top: 20px;
+ padding: 0px;
+size: 100px;
+border: 4 px solid black;
+border-radius: 2px;
+    }  
+
+form   {
+text-align: center;
+}
+button     {
+padding:10px;
+size: 20px;
+}
+input   {
+font-size: large;
+}
+nav {
+text-align: right;
+margin: 20px;
+padding:10px;
+}

@@ -1,0 +1,19 @@
+img    {
+    margin-top: 30px;
+    padding: 0px;
+    size: 20px;
+    border: 4 px solid black;
+    border-radius: 2px;
+        }  
+form    {
+        margin: 10px;
+        text-align: center;
+    }
+nav {
+    text-align:right;
+    margin:20px;
+    padding:10px;
+}
+input   {
+    font-size: large;
+}
